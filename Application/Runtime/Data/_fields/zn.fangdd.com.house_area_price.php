@@ -1,0 +1,1 @@
+a:5:{i:0;s:7:"area_id";i:1;s:4:"data";i:2;s:11:"update_time";s:3:"_pk";s:7:"area_id";s:5:"_type";a:3:{s:7:"area_id";s:7:"int(11)";s:4:"data";s:4:"text";s:11:"update_time";s:9:"timestamp";}}

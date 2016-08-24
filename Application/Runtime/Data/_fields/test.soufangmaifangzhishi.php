@@ -1,0 +1,1 @@
+a:8:{i:0;s:5:"title";i:1;s:9:"show_time";i:2;s:12:"content_from";i:3;s:7:"article";i:4;s:2:"id";i:5;s:7:"updated";s:3:"_pk";s:2:"id";s:5:"_type";a:6:{s:5:"title";s:12:"varchar(255)";s:9:"show_time";s:12:"varchar(255)";s:12:"content_from";s:12:"varchar(255)";s:7:"article";s:4:"text";s:2:"id";s:7:"int(11)";s:7:"updated";s:10:"tinyint(4)";}}

@@ -1,0 +1,957 @@
+[ 2016-04-18T09:40:07+08:00 ] 127.0.0.1 /crawer/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011000s ]
+
+[ 2016-04-18T09:40:08+08:00 ] 127.0.0.1 /crawer/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-18T09:40:43+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-18T09:40:47+08:00 ] 127.0.0.1 /crawer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.166009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.166009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011001s ]
+
+[ 2016-04-18T02:41:27+01:00 ] 127.0.0.1 /crawer/souFangByCity?d=1&u=shanghai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T02:41:49+01:00 ] 127.0.0.1 /crawer/souFangByCity?d=1&u=hangzhou
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T02:42:06+01:00 ] 127.0.0.1 /crawer/souFangByCity?d=1&u=suzhou
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T02:42:16+01:00 ] 127.0.0.1 /crawer/souFangByCity?d=1&u=shenzhen
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 203 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T02:42:26+01:00 ] 127.0.0.1 /crawer/souFangByCity?d=1&u=nanjing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-18T02:42:37+01:00 ] 127.0.0.1 /crawer/souFangByCity?d=1&u=guangzhou
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T02:42:42+01:00 ] 127.0.0.1 /crawer/loupanWang?d=1&u=shanghai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T02:42:58+01:00 ] 127.0.0.1 /crawer/loupanWang?d=1&u=hangzhou
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T02:43:04+01:00 ] 127.0.0.1 /crawer/loupanWang?d=1&u=suzhou
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-04-18T02:43:08+01:00 ] 127.0.0.1 /crawer/loupanWang?d=1&u=shenzhen
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T02:43:12+01:00 ] 127.0.0.1 /crawer/loupanWang?d=1&u=nanjing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T02:43:16+01:00 ] 127.0.0.1 /crawer/loupanWang?d=1&u=guangzhou
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-18T02:43:32+01:00 ] 127.0.0.1 /crawer/houseNews?d=7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-18T12:03:43+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1054:Unknown column 'area_id' in 'field list'
+ [ SQL语句 ] : select * from house_area_copy where id not in (select area_id from house_area_copy)
+ERR: 1054:Unknown column 'area_id' in 'field list'
+ [ SQL语句 ] : select * from house_area_copy where id not in (select area_id from house_area_copy)
+
+[ 2016-04-18T12:04:20+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) [ RunTime:0.0020s ]
+
+[ 2016-04-18T12:05:22+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1081 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=988 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] file_get_contents(http://shanghai.anjuke.com/market/dachangzhen): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 28 行.
+
+[ 2016-04-18T12:06:04+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) [ RunTime:0.0030s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1081 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=988 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-04-18T12:06:54+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1081 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=988 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] file_get_contents(http://shanghai.anjuke.com/market/dachangzhen): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 28 行.
+
+[ 2016-04-18T12:09:37+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1081 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=988 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] file_get_contents(http://shanghai.anjuke.com/market/dachangzhen): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 28 行.
+
+[ 2016-04-18T12:09:55+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1081 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=988 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] file_get_contents(http://shanghai.anjuke.com/market/dachangzhen): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 28 行.
+
+[ 2016-04-18T12:09:57+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1081 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=988 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] file_get_contents(http://shanghai.anjuke.com/market/dachangzhen): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 28 行.
+
+[ 2016-04-18T12:10:13+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1081 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=988 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] file_get_contents(http://shanghai.anjuke.com/market/dachangzhen): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 28 行.
+
+[ 2016-04-18T12:10:29+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) [ RunTime:0.0030s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1081 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=988 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] file_get_contents(http://shanghai.anjuke.com/market/dachangzhen): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 28 行.
+
+[ 2016-04-18T12:10:47+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1081 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=988 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] file_get_contents(http://shanghai.anjuke.com/market/dachangzhen): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 28 行.
+
+[ 2016-04-18T12:11:09+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) [ RunTime:0.0030s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1081 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=988 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] file_get_contents(http://shanghai.anjuke.com/market/dachangzhen): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 28 行.
+
+[ 2016-04-18T12:11:23+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1081 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=988 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] file_get_contents(http://shanghai.anjuke.com/market/dachangzhen): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 28 行.
+
+[ 2016-04-18T12:14:01+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where spell='shenzhen'' at line 1
+ [ SQL语句 ] : select * from house_area_copy where id not in (select area_id from house_area_price) where spell='shenzhen'
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where spell='shenzhen'' at line 1
+ [ SQL语句 ] : select * from house_area_copy where id not in (select area_id from house_area_price) where spell='shenzhen'
+
+[ 2016-04-18T12:14:01+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where spell='shenzhen'' at line 1
+ [ SQL语句 ] : select * from house_area_copy where id not in (select area_id from house_area_price) where spell='shenzhen'
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where spell='shenzhen'' at line 1
+ [ SQL语句 ] : select * from house_area_copy where id not in (select area_id from house_area_price) where spell='shenzhen'
+
+[ 2016-04-18T12:14:05+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where spell='shenzhen'' at line 1
+ [ SQL语句 ] : select * from house_area_copy where id not in (select area_id from house_area_price) where spell='shenzhen'
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where spell='shenzhen'' at line 1
+ [ SQL语句 ] : select * from house_area_copy where id not in (select area_id from house_area_price) where spell='shenzhen'
+
+[ 2016-04-18T12:14:43+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where spell='shenzhen'' at line 1
+ [ SQL语句 ] : select * from house_area_copy where id not in (select area_id from house_area_price) and where spell='shenzhen'
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where spell='shenzhen'' at line 1
+ [ SQL语句 ] : select * from house_area_copy where id not in (select area_id from house_area_price) and where spell='shenzhen'
+
+[ 2016-04-18T12:14:54+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and spell='shenzhen' [ RunTime:0.0020s ]
+
+[ 2016-04-18T12:15:05+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and spell='shenzhen' [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-18T14:36:09+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and spell='shenzhen' [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `house_area_price` (`data`,`area_id`) VALUES ('33384,36762,39900,39972,40230,40118,39451,41494,45000,47285,48802,47387','1337') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-18T14:40:00+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and spell='shenzhen' [ RunTime:0.0010s ]
+
+[ 2016-04-18T14:40:52+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and spell='shenzhen' [ RunTime:0.0020s ]
+
+[ 2016-04-18T14:42:11+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and spell='shenzhen' [ RunTime:0.0020s ]
+
+[ 2016-04-18T14:47:59+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) [ RunTime:0.0020s ]
+
+[ 2016-04-18T14:48:04+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) [ RunTime:0.0020s ]
+
+[ 2016-04-18T14:51:04+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) order by rand() [ RunTime:0.0030s ]
+
+[ 2016-04-18T14:51:13+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) order by rand() [ RunTime:0.0040s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1348 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T14:51:19+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) order by rand() [ RunTime:0.0030s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=269 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=267 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T14:52:34+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid=0 order by rand() [ RunTime:0.0010s ]
+
+[ 2016-04-18T14:58:04+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid=0 order by rand() [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:00:04+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+
+[ 2016-04-18T15:00:09+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+
+[ 2016-04-18T15:00:20+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+
+[ 2016-04-18T15:02:25+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:03:14+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] file_get_contents(http://suzhou.anjuke.com/market/kunshan): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 26 行.
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] file_get_contents(http://suzhou.anjuke.com/market/gusu): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 26 行.
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] file_get_contents(http://guangzhou.anjuke.com/market/panyu): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 26 行.
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] file_get_contents(http://suzhou.anjuke.com/market/changshu): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 26 行.
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] file_get_contents(http://guangzhou.anjuke.com/market/guangzhouzhoubian): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 26 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-18T15:04:03+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:05:06+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:07:14+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0030s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:07:55+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:07:59+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:08:20+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:08:58+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-04-18T15:09:20+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:12:56+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:13:09+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-04-18T15:14:25+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:15:04+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T15:15:12+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:15:15+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-04-18T15:15:33+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-04-18T15:15:36+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:16:09+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: http_response_header E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 32 行.
+
+[ 2016-04-18T15:17:20+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:17:47+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:17:58+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:18:02+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:18:02+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-04-18T15:18:03+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:18:04+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:18:05+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:18:24+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:21:28+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] file_get_contents(http://guangzhou.anjuke.com/market/panyu): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 33 行.
+
+[ 2016-04-18T15:21:44+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:21:55+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:28:38+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:30:45+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T15:33:29+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] file_get_contents(http://suzhou.anjuke.com/market/kunshan): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 27 行.
+
+[ 2016-04-18T15:33:34+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] file_get_contents(http://guangzhou.anjuke.com/market/guangzhouzhoubian): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 27 行.
+
+[ 2016-04-18T15:36:19+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from house_area_copy where id not in (select area_id from house_area_price) and pid in (121,3,2316.267,852,1337) order by rand() [ RunTime:0.0020s ]
+

@@ -1,0 +1,721 @@
+[ 2016-05-12T09:55:46+08:00 ] 127.0.0.1 /crawer/soufang?u=shanghai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 359 行.
+
+[ 2016-05-12T09:55:46+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-12T09:55:46+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-12T09:56:18+08:00 ] 127.0.0.1 /crawer/soufang?u=shanghai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 359 行.
+
+[ 2016-05-12T09:56:39+08:00 ] 127.0.0.1 /crawer/soufang?u=shanghai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 359 行.
+
+[ 2016-05-12T09:58:21+08:00 ] 127.0.0.1 /crawer/soufang?u=shanghai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: 泗泾房价直奔6万 曾经价格洼地如今高攀不起 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `house_info` WHERE ( title= ) LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `house_info` WHERE ( title= ) LIMIT 1  
+
+[ 2016-05-12T10:00:19+08:00 ] 127.0.0.1 /crawer/soufang?u=shanghai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-12T10:00:45+08:00 ] 127.0.0.1 /crawer/soufang?u=shanghai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-12T10:00:57+08:00 ] 127.0.0.1 /crawer/soufang?u=shanghai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-05-12T10:02:50+08:00 ] 127.0.0.1 /crawer/soufang?u=shanghai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: 泗泾房价直奔6万 曾经价格洼地如今高攀不起 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0240s ]
+NOTIC: [8] Undefined variable: 上海泗泾地价超3.8万 开盘妥妥要卖6万以上 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 芝加哥、纽约酒店业主起诉万豪收购喜达屋交易 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 十三五规划：到2018年人均住房面积达标率至55% E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 禽兽啊！泗泾楼板价拍到38291.33元/㎡！ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 楼市加杠杆去库存引担忧 信贷政策需"分城调控" E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 楼市观察：“高烧”的二线城市政策转向控房价 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 1.24亿5%溢价率 k2地产低调摘青浦华新镇商业地块 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 南桥新城宅地引24家房企厮杀 象屿以21.5亿斩获 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-05-12T10:09:33+08:00 ] 127.0.0.1 /crawer/loupanWang?u=shanghai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: 上海楼市新政后地王频出，后期入市压力大 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: 上海房价连续下滑，房企调整拿地策略 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 公积金异地贷款：住房公积金怎样提取? E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 住房公积金贷款新政点燃市民购房热情 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 个人住房公积金贷款最新:公积金异地贷款新政 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-12T10:09:34+08:00 ] 127.0.0.1 /crawer/loupanWang?u=suzhou
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-12T10:09:34+08:00 ] 127.0.0.1 /crawer/loupanWang?u=hangzhou
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-12T10:09:40+08:00 ] 127.0.0.1 /crawer/loupanWang?u=shenzhen
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: 京基涉嫌“野蛮“收购 康达尔称：请遵守规则 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 深圳加码保障房 土地供应倚重存量 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: “房子是给人住的”，这话对未来中国房地产市场的影响有多大？ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 深圳上周商品房成交环比降49.32% E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 去美国当房东?没你想的那么容易 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 深圳只有4个区？一张图看懂未来5年的深圳 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 龙华推动旧改 旧工业区改造最高获2000万元资助 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 谁说首付贷被禁？深圳买房只需1.5成首付 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 新西兰公布海外买家购房数据 中国人占比最高 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 深圳燕晗山苑一业主吐槽物业推卸责任 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 广州客西进带旺市场 三水楼市量价齐升 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 德国为何“粗暴”干涉居民租房？ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 房价或2017年下半年全面下滑 投资资产结构转变需抓紧 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 房主过户前坐地起价涨80万 买房夫妇诉诸法庭 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 首都疏解提速 万家灯火告别北四环 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 穆迪：未来一年中国房地产市场展望稳定 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 这里的楼市和深圳一样赚钱！中国炒家已疯 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 新建住宅社区用房面积不小于600平方米 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 中国将出台新政 房产中介或遇史上最严整顿 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-12T10:09:46+08:00 ] 127.0.0.1 /crawer/loupanWang?u=guangzhou
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: 广州住房公积金查询方法 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 2016年广州单位缴存住房公积金办事全攻略 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 2016年广州住房公积金提取条件及办理流程 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: 广东：到2018年人均住房面积达标率至55% E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: “买房减税”新政:90㎡以上唯一住房 契税降至1.5% E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 2016广州购房契税优惠 买房可以省多少钱？ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 2015广州首套房公积金贷款首付比例是多少？ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 123 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-12T10:09:47+08:00 ] 127.0.0.1 /crawer/loupanWang?u=nanjing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-05-12T10:09:50+08:00 ] 127.0.0.1 /crawer/leju?d=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: 穆迪：中国房地产销售增速将降至个位数 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 上海千万级豪宅天量成交后遭遇滑坡 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 继承法：独生子女或无法全额继承父母房产 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 英国房贷还款年龄 可以延长至８５岁 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 松江区叶新-大叶公路或年底启动改建 设计时速80公里 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0050s ]
+NOTIC: [8] Undefined variable: Free早餐 免费白领 万科送不停 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 姑苏只为故人来 再忍2天 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 买房有技巧 在售楼处如何看房问房 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 元和街道第二社区联盟与苏州时代金球影城共建联盟揭牌仪式圆满举办 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 2016苏州市区还有哪些地块值得期待！ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 致敬奋斗的人 美好女性沙龙“狮吼会”发起人:柳迪迪 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 读懂苏州前4月楼市 苏高新销售面积勇夺冠军 大卖近55亿 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 影响8000万江苏人出行的一张卡！你必须知道 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 768 行.
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 783 行.
+NOTIC: [8] Undefined variable: 买一手房还是买二手房划算？ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: 高位过坎：深圳的困扰与突围 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 深圳客买房回归理性 4月东莞多镇区成交跌三至五成 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 深圳房地产众筹整改将满月 有机构转战微信平台 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: 深圳54个片区二手房最新报价：这24个片区在下跌 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 楼市加杠杆去库存引担忧 信贷政策需分城调控 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0030s ]
+NOTIC: [8] Undefined variable: 深圳转型竞跑：从圣诞树到机器人 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: 美最大P2P公司违规放贷2200万美元 巨震暴露行业危机 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 民间投资增速陡然下行 国务院督查组18省专项督查 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 罗湖区加快融入“东进” E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 748 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-05-12T10:09:53+08:00 ] 127.0.0.1 /crawer/souFang?u=hangzhou
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-05-12T10:10:01+08:00 ] 127.0.0.1 /crawer/souFang?u=shanghai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: 泗泾房价直奔6万 曾经价格洼地如今高攀不起 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 上海泗泾地价超3.8万 开盘妥妥要卖6万以上 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 芝加哥、纽约酒店业主起诉万豪收购喜达屋交易 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 十三五规划：到2018年人均住房面积达标率至55% E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 禽兽啊！泗泾楼板价拍到38291.33元/㎡！ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 楼市加杠杆去库存引担忧 信贷政策需"分城调控" E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 楼市观察：“高烧”的二线城市政策转向控房价 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 1.24亿5%溢价率 k2地产低调摘青浦华新镇商业地块 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 南桥新城宅地引24家房企厮杀 象屿以21.5亿斩获 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 上海正编制到2040年的城市整体规划 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: “年轻人不要再贷款买房了！”这观点太屌丝了 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 泗泾房价直奔6万 曾经价格洼地如今高攀不起 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: “在水一方”的新现代古典生活 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 楼市加杠杆去库存引担忧 信贷政策需"分城调控" E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 楼市观察：“高烧”的二线城市政策转向控房价 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 当前房地产市场须警惕三大风险 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 上海千万级豪宅天量成交后遭遇滑坡 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 十三五规划：到2018年人均住房面积达标率至55% E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-12T10:10:02+08:00 ] 127.0.0.1 /crawer/souFang?u=suzhou
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-12T10:10:05+08:00 ] 127.0.0.1 /crawer/souFang?u=shenzhen
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: 一张表看懂深圳54个片区 二手房放盘价排行榜 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 温哥华房价涨30% 三分之一房子被中国买家买走 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 深圳将加大保障房建设 四成常住家庭将自有住房 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 西丽建高铁站引发网友热议 市轨道办表示还在规划 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 坪山新区处罚51名“不作为”房东 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 深圳上周商品房成交环比降49.32% E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 深圳近半成片区二手报价下跌 开发商调低报价 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 聚焦深圳面临的困难 超大城市如何“高位过坎” E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 一张表看懂深圳54个片区 二手房放盘价排行榜 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-12T10:10:08+08:00 ] 127.0.0.1 /crawer/souFang?u=nanjing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: 南京首份地下空间地图年内推出 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 明孝陵大金门将防水加固不加顶 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 南京成吃货最具幸福感城市 top100城市江苏有10个 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 菜价回落CPI反升 南京调查队：居住价格推动 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 江北正面临1.5万项目全面清盘危机 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 国土局挂4幅地 青龙山生态新城宅地起拍价近万元 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 200 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-12T10:10:09+08:00 ] 127.0.0.1 /crawer/souFang?u=guangzhou
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-05-12T10:10:13+08:00 ] 127.0.0.1 /crawer/sinaHouse?d=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: 上海千万级豪宅天量成交后遭遇滑坡 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 344 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 继承法：独生子女或无法全额继承父母房产 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 344 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 英国房贷还款年龄 可以延长至８５岁 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 344 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 楼市回归功能定位 短期降温不可避免 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 344 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 买房有技巧 在售楼处如何看房问房 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 344 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 2016苏州市区还有哪些地块值得期待！ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 344 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 影响8000万江苏人出行的一张卡！你必须知道 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 344 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 27所新建改扩建幼儿园今年秋季启用 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 344 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 现在去穹窿山越来越方便了 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 344 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 夏天到了，1号线有轨电车也换装了！ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 344 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 三金再挂牌转让旗下公司100%股权 鼓楼区热河南路酿造厂地块待转让 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 344 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 南京“限地价”出新招 商品房保障房“混搭”小区将出现 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 344 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 376 行.
+NOTIC: [8] Undefined variable: 买一手房还是买二手房划算？ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 344 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 高位过坎：深圳的困扰与突围 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 344 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 深圳客买房回归理性 4月东莞多镇区成交跌三至五成 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 344 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 深圳房地产众筹整改将满月 有机构转战微信平台 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 344 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 深圳54个片区二手房最新报价：这24个片区在下跌 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 344 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 楼市加杠杆去库存引担忧 信贷政策需分城调控 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 344 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 深圳转型竞跑：从圣诞树到机器人 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 344 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-12T10:10:14+08:00 ] 127.0.0.1 /crawer/sinaHouse_1?d=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] iconv(): Detected an illegal character in input string E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 449 行.
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 452 行.
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 456 行.
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 458 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-12T10:10:15+08:00 ] 127.0.0.1 /crawer/houseNews?d=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-05-12T10:10:41+08:00 ] 127.0.0.1 /crawer/sinaHouse_2?d=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: 再造一个社区 物业4.0的雅居乐样本 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 天津公积金最高缴存比例由15%调整为12% E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 宁波楼市：改善需求为主 看涨预期增强 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0060s ]
+NOTIC: [8] Undefined variable: 傅育宁姚振华或密谋“做掉”王石 将迎后王石时代 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0100s ]
+NOTIC: [8] Undefined variable: 重庆楼市四月房价平稳 中介:看房的一半是外地人 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 4月各城市楼市分化：一线退烧，二三线高烧 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 楼市观察：“高烧”的二线城市政策转向“控房价” E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: "限购令"变"限售令" 京周边楼市"有房无证"难入市 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 受营改增影响卖家降价减税 武汉二手房均价下跌 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0190s ]
+NOTIC: [8] Undefined variable: 通州商务公寓4天零成交 部分楼盘“封盘” E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 莱坊看中国楼市 今年内地涨18% 香港跌10% E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 15%的人口要离开，北京的地没想象中珍贵 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 香港新盘有去库存压力 投行称楼价还将跌40% E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 上海城开中心媒体发布会：地产金融新思路 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 楼市加杠杆“去库存”引担忧 专家建议“分城调控” E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 首套房贷利率北京最低八折 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 净负债率超300%的华发能否“高进高出”？ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 南京"限地价"出新招：溢价超45%将配建保障房 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 恒大让利抢占金五月 提前冲刺半年业绩 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 招商蛇口62亿元“补粮” 在京土地储备几近“断顿” E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 大信•新都汇再出发 “城市生活广场”将横空出世 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 通州商住限购第五天 开发商都经历了什么？ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 恒大减持盛京银行 弃H保A“以退为进” E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 505 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-12T10:11:08+08:00 ] 127.0.0.1 /crawer/tencent?d=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: 上海千万级豪宅天量成交后遭遇滑坡 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 李宇嘉：补齐住房租赁市场短板刻不容缓 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 70亿！上海1天卖4幅地块 近百房企疯抢房价难降 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 疯了！上海土地1天成交70亿 泗泾未来上6万/平  E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 松江房价要破6万！泗泾2幅纯宅地楼板价近4万/平 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 姚振华密谋“做掉”王石 万科将迎来后王石时代 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 一季度房企销售比拼：恒大万科争榜首 万达跌出前十 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 24家房企厮杀夺奉贤南桥纯宅地 象屿21.5亿突出重围 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: K2以1.24亿拿下青浦商业地块 楼板价3144元/平 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 上海将划定永久性先进制造业用地 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: “迪士尼电话卡”亮相 首发1000份半日抢空 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 房地产虽过黄金期 未来5-10年上海仍有上涨空间 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 继承法：独生子女或无法全额继承父母房产 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 租房提公积金时间改为“6月至12月” E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 当前房地产市场须警惕三大风险 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 房主过户前坐地起价80万 购房者无奈诉至法院 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 沪崇启铁路研究规划 经崇明接上海枢纽网络 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 房地产虽黄金期已过 未来5-10年上海仍有上涨空间 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 沪迪士尼7大景点发&quot;快速通行证&quot; 排队仅需5分钟 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 680 行.
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 703 行.
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 703 行.
+NOTIC: [8] Undefined variable: 5月11日杭州全市成交556套 精装酒店式公寓持续热销 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 西雅图回到杭州，文佳佳会买哪里的“国际学区房”? E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 钱江5号火爆热销  市心红盘引发抢购 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 大胆拿下：谁在给杭宸停售撑腰？ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 富阳区第十四届房交会新闻发布会圆满召开 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 一大波“上海移民”正在袭来！ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 好户型当红不让！赞成杭家恭迎一切挑剔的眼光 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 滨江东方海岸全新法合组团【江墅】5月16日全球献映 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 武林洋房 | 他们都选择多花四分之一的价格 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 天降纯金麒麟，请注意脚下，谁捡到归谁！ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 碧桂园森林城市：掘金海外 共见美好未来！ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 拥有好配套 才能拥享好未来 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 中国进入租房时代? 商业地产和长租公寓获得利 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 文晖板块崛起 区域内楼盘称霸市场的法宝是什么 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 美国队长3&#8739;世纪蓝红大战凭什么这么火？ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 2小时狂销8成 究竟是谁在抢滨江&#183;华家池华幕？ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 5月15日 165个财富机会就在空港新天地 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 直降25万 入住在湘湖旁的院墅是怎么样的体验 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 月初颓势 上周杭州二手房成交下滑近三成 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 上周杭州楼市成交大幅下降 成交面积下跌近5成  E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 人居展必看新盘 杭州下半年房价涨不涨看它们 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 四月各城市楼市分化：一线退烧 二三线高烧 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 4月浙江CPI同比上涨2.0% 居住价格涨0.3% E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 房贷断供 “房姐”龚爱爱被索近800万元  E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 杭州首座仿树形天桥本月投入使用 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 老住户拆迁了 钱江新城未来要造不少保障房 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 富阳区第十四届房地产展示交易会本月13日开幕  E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 5月11日新房认购271套 六合热盘抢占榜首 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 现在还可以买房和投资吗？周末一起听腾讯主编授课 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 证大房产：重新发现玄武湖 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 商办公寓成置业新宠？5、6月份南京将有多家公寓产品集中上线 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 震撼800席 全南京只为龙湖疯狂！ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 剧透：从十三五规划看南京8区最新规划，到2020年家门口要大变样了！ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 南京五环内房价曝光！ 看你能上几环？ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 揭秘南京一家“买不到的‘神楼盘’” E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 这样还房贷能省几十万 银行却不告诉你！ E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 南京自以为老子天下第一，房价涨不过合肥，房子卖不过杭州 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 老旧小区更换电梯“卡”在哪 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 南京首份地下空间地图年内推出 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 内秦淮河西五华里河岸改造启动 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0030s ]
+NOTIC: [8] Undefined variable: 六合820户村民领到农房不动产权证 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: 4月份江苏CPI同比涨2.3% E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 南京鼓楼区热点中小学施教区有重大调整 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: “房姐”龚爱爱 被索近800万元 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 国土局挂出4幅地块 青龙山宅地起拍价近万元 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 665 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 680 行.
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 680 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-05-12T10:11:12+08:00 ] 127.0.0.1 /crawer/hexunwang?d=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: 中国土地勘测规划院2016年全国土地利用变更调查监测与核查遥感监测任务公开招标公告 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 586 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 福建自贸试验区平潭片区发布28项金融创新案例 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 586 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0050s ]
+NOTIC: [8] Undefined variable: 华夏动漫首创VR虚拟现实主题乐园 引领VR新风尚 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 586 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0120s ]
+NOTIC: [8] Undefined variable: 新华联500万美元引进新濠国际为韩国项目提供服务 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 586 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0190s ]
+NOTIC: [8] Undefined variable: 金地拟发行130亿公司债券 用作偿还借款及补充流动 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 586 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: 入伙热潮涌现　印证泉州华大泰禾首府区域价值 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 586 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: 金科地产2016年累计新增借款超30.68亿元 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 586 行.
+SQL: SELECT * FROM `house_info` WHERE ( title='' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

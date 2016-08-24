@@ -1,0 +1,822 @@
+[ 2016-04-13T10:33:05+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-13T10:37:48+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SELECT * FROM `house_area_copy` ORDER BY id asc LIMIT 0,300   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=3 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=23 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=24 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=25 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=28 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=29 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=37 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=40 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=23 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=46 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=48 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=57 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=59 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=28 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=62 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=28 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=63 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=28 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=64 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=70 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=71 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=29 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=92 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=121 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=178 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=180 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=178 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=181 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=178 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=182 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=183 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=184 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=267 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=268 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=269 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=270 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=271 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=273 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=267 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=275 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=276 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=277 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=278 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=279 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=280 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=319 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=320 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=321 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=852 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=853 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=854 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=855 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=853 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=856 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=857 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=858 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=859 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=860 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=861 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=862 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=863 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=864 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=868 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=871 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=872 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=873 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=875 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=853 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=878 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=879 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=880 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=854 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=881 ) LIMIT 1   [ RunTime:0.0090s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=882 ) LIMIT 1   [ RunTime:0.0100s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=854 ) LIMIT 1   [ RunTime:0.0040s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=883 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=886 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=854 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=887 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=854 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=888 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=889 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=854 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=890 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=896 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=857 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=899 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=900 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=901 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=902 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=906 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=908 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=911 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=859 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=920 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=921 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=923 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=926 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=862 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=927 ) LIMIT 1   [ RunTime:0.0150s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=928 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=931 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=863 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=933 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=935 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=863 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=852 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=937 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=977 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=978 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=979 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=980 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=982 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=983 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=984 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=985 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=986 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=987 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=988 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=989 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=990 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=991 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=992 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=993 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=994 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=998 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=999 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1001 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1002 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1004 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1006 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1007 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=977 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1008 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1032 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1034 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1035 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1038 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1039 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1040 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1041 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1042 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1043 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1044 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1046 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1048 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1049 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1050 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1051 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1052 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1053 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1054 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1056 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=984 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1057 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=985 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1058 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=985 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1059 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1060 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1061 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1065 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1066 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1067 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1068 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1071 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1074 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1075 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=987 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1076 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1077 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1080 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1081 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=988 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1082 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1083 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1084 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1085 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1086 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1088 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1089 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=988 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1092 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1093 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1094 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1096 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1097 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=990 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1099 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1101 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=990 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1102 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1110 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1112 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1113 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1114 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1116 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1117 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1118 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1119 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1120 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1121 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1122 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1123 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1124 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1126 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1127 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1128 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1130 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1132 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1134 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1136 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1137 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1138 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1139 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1141 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1143 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1338 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1340 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1341 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1342 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1343 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1344 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1345 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1346 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1347 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1348 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1376 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1338 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1377 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1338 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1378 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1338 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1381 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1338 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1382 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1338 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1383 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1340 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1384 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1340 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1385 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1340 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1386 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1340 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1387 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1341 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1388 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1341 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1389 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1341 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1390 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1341 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1391 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1341 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1392 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1341 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1394 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1342 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1395 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1342 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1396 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1342 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1397 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1342 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1398 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1342 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1399 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1342 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1400 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1342 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1401 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1342 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1403 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1342 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1404 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1343 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1405 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1343 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1590 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=24 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1598 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=29 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1663 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1338 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1664 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1341 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1665 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1346 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1667 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1348 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1668 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1345 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1669 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1345 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1670 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1344 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1671 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1347 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1672 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1344 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1673 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1344 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1674 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1347 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1675 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1343 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1676 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1343 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1677 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1343 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1678 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1343 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1680 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1343 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1681 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1348 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1682 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1347 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1684 ) LIMIT 1   [ RunTime:0.0100s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1343 ) LIMIT 1   [ RunTime:0.0060s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0050s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1685 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1344 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1686 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1344 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1687 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1343 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1688 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1348 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1689 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1344 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1788 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1793 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1803 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1806 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1807 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1808 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1809 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1810 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1812 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1815 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1816 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1817 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1823 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1951 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1957 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1959 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1960 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1971 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=977 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1973 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1974 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1975 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1976 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1977 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=1978 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=987 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=121 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2024 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2025 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2042 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2043 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2045 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2052 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1343 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2054 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1346 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2055 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1343 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2056 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1344 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2057 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1344 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2058 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1343 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=1337 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2316 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2317 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2318 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2319 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2320 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2321 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2443 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2444 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2446 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2448 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2450 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2451 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=2450 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=2316 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2460 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2461 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=2465 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.046003s ]
+INFO: [ app_end ] --END-- [ RunTime:0.046003s ]
+
+[ 2016-04-13T10:37:48+08:00 ] 127.0.0.1 /crawFJ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SELECT * FROM `house_area_copy` ORDER BY id asc LIMIT 0,5   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=3 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=23 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=24 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=25 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `house_area_copy` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www\crawer\Application\Home\Controller\CrawFJController.class.php 第 34 行.
+SQL: SELECT * FROM `house_area_price` WHERE ( area_id=28 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-13T14:24:58+08:00 ] 127.0.0.1 /crawer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-13T07:25:32+01:00 ] 127.0.0.1 /crawer/souFangByCity?d=1&u=shanghai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-04-13T07:27:37+01:00 ] 127.0.0.1 /crawer/souFangByCity?d=1&u=shanghai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-13T07:28:20+01:00 ] 127.0.0.1 /crawer/souFangByCity?d=1&u=hangzhou
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-13T07:28:43+01:00 ] 127.0.0.1 /crawer/souFangByCity?d=1&u=suzhou
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-13T07:28:52+01:00 ] 127.0.0.1 /crawer/souFangByCity?d=1&u=shenzhen
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 203 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-13T07:29:07+01:00 ] 127.0.0.1 /crawer/souFangByCity?d=1&u=nanjing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-13T07:29:20+01:00 ] 127.0.0.1 /crawer/souFangByCity?d=1&u=guangzhou
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-13T07:29:45+01:00 ] 127.0.0.1 /crawer/souFangByCity?d=1&u=beijing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-13T07:29:51+01:00 ] 127.0.0.1 /crawer/loupanWang?d=1&u=shanghai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-13T07:30:13+01:00 ] 127.0.0.1 /crawer/loupanWang?d=1&u=hangzhou
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-13T07:30:22+01:00 ] 127.0.0.1 /crawer/loupanWang?d=1&u=suzhou
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-13T07:30:27+01:00 ] 127.0.0.1 /crawer/loupanWang?d=1&u=shenzhen
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-13T07:30:31+01:00 ] 127.0.0.1 /crawer/loupanWang?d=1&u=nanjing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-13T07:30:38+01:00 ] 127.0.0.1 /crawer/loupanWang?d=1&u=guangzhou
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-13T07:31:19+01:00 ] 127.0.0.1 /crawer/houseNews?d=7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 263 行.
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 266 行.
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 268 行.
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 263 行.
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 266 行.
+NOTIC: [8] Undefined offset: 1 E:\www\crawer\Application\Home\Controller\CrawerController.class.php 第 268 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
